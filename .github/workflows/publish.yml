@@ -15,5 +15,5 @@ jobs:
           username: nathanbruggeman
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: docker.pkg.github.com
-          repository:  NathanBruggeman/publish-packages/game
+          repository:  nathanbruggeman/introduction-to-github/game
           tag_with_sha: true
