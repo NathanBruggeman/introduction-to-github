@@ -18,6 +18,9 @@ _Use GitHub Actions to publish your project to a Docker image._
   Do not use quotes on the <details> tag attributes.
 -->
 
+![image](https://user-images.githubusercontent.com/101107621/192150270-148878be-0cf3-4ab6-a911-a2129fe7d017.png)
+
+
 <!--step0
 
 GitHub Actions makes it easier than ever to incorporate continuous delivery (CD) into your repositories. This course will teach you what is needed to test and deliver artifacts that are ready for deployment.
